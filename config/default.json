@@ -1,6 +1,6 @@
 {
-  "mongoURI": "mongodb://akthecoder:akthecoder@devconnector-shard-00-00-li6ni.mongodb.net:27017,devconnector-shard-00-01-li6ni.mongodb.net:27017,devconnector-shard-00-02-li6ni.mongodb.net:27017/test?ssl=true&replicaSet=DevConnector-shard-0&authSource=admin&retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "a8ec97511313548fbfa2",
-  "githubSecret": "59d023c901c923a27b504f1ee7ed5ce3e5d21a01"
+  "mongoURI": "",
+  "jwtSecret": "",
+  "githubClientId": "",
+  "githubSecret": ""
 }
