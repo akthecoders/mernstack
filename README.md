@@ -1,5 +1,4 @@
 # DevConnector
-
 > Social network for developers
 
 ## Quick Start
